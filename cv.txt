@@ -1,2 +1,2 @@
-<h1> este es mi CV </h1>
+<h1> este es mi CV </>
 <p> Hola soy Maria </p>
